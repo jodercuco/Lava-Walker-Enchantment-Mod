@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "age=0": { "model": "lava-walker-enchantment-mod:block/molten_basalt" },
+    "age=1": { "model": "lava-walker-enchantment-mod:block/molten_basalt_stage1" },
+    "age=2": { "model": "lava-walker-enchantment-mod:block/molten_basalt_stage2" }
+  }
+}

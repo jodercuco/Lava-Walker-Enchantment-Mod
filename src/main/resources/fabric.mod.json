@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "lava-walker-enchantment-mod",
+	"version": "${version}",
+	"name": "Lava Walker Enchantment Mod",
+	"description": "Walking on lava made possible. Adds the 'Lava Walker' enchantment to traverse nether oceans safely.",
+	"authors": [
+		"Cuco"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/lava-walker-enchantment-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.lavawalker.LavaWalkerEnchantmentMod"
+		],
+		"client": [
+			"com.lavawalker.client.LavaWalkerEnchantmentModClient"
+		]
+	},
+	"mixins": [
+		"lava-walker-enchantment-mod.mixins.json",
+		{
+			"config": "lava-walker-enchantment-mod.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

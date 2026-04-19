@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "lava-walker-enchantment-mod:block/molten_basalt"
+  }
+}
