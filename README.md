@@ -1,6 +1,6 @@
 # 🔥 Lava Walker Enchantment Mod
 
-![Lava Walker Icon](https://raw.githubusercontent.com/jodercuco/Lava-Walker-Enchantment-Mod/main/src/main/resources/assets/lava-walker/icon.png)
+![Lava Walker Icon](https://raw.githubusercontent.com/jodercuco/Lava-Walker-Enchantment-Mod/main/src/main/resources/assets/lava-walker-enchantment-mod/icon.png)
 
 A lightweight and vanilla-friendly Fabric mod that introduces the **Lava Walker** enchantment. Traverse the dangerous lakes of the Nether with ease by turning lava into solid rock beneath your feet.
 
