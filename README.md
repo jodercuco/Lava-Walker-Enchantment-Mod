@@ -1,4 +1,4 @@
-# 🔥 Lava Walker Enchantment Mod
+# 🔥 Lava Walker Enchantment Fabric Mod
 
 ![Lava Walker Icon](https://raw.githubusercontent.com/jodercuco/Lava-Walker-Enchantment-Mod/main/src/main/resources/assets/lava-walker-enchantment-mod/icon.png)
 
